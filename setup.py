@@ -10,6 +10,7 @@ setup(
   keywords = [], # arbitrary keywords
   classifiers = [],
   install_requires=[
-    'astcheck'
+      'astcheck',
+      'nbconvert==5.4.1'
   ]
 )
